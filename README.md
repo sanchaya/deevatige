@@ -1,6 +1,7 @@
 # Deevatige - Weekly by Sirimane Nagaraj
 
-GTN Digital Kannada Books is a showcase of the #ServantsOfKnowledge project works @Sanchaya & @SanchiFoundation
+Deevatige - Weekly by Sirimane Nagaraj
+ is a showcase of the #ServantsOfKnowledge project works @Sanchaya & @SanchiFoundation
 
 Check it out : https://sanchaya.org & https://sanchifoundation.org
 
